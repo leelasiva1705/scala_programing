@@ -6,5 +6,6 @@ object first_scala_code {
 
     print("hello world ")
       print("welcome world ")
+
   }
 }
